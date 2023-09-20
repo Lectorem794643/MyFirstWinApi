@@ -1,0 +1,4 @@
+Hi! You are reading the instructions for the program. 
+In this window, you can enter text and send it to the program for processing. The program will count the number of characters entered. You can also save the entered text and load it after - this way buffer storage of the text in an external file is implemented. Text the text stored in the file of each click "Save". Import and export of files is also available. You can read the format file .txt or save your entry in the file feed.
+Buffer limit: 1024 characters.
+A relaxing rectangle is also available in the program. You can relax and choose a color that you like.
